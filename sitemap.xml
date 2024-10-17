@@ -2,65 +2,65 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://lyferlu.github.io/blog/p/hello-world/</loc>
+    <loc>https://lyferlu.github.io/p/hello-world/</loc>
     <lastmod>2022-03-06T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://lyferlu.github.io/blog/</loc>
+    <loc>https://lyferlu.github.io/</loc>
     <lastmod>2023-09-07T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://lyferlu.github.io/blog/categories/</loc>
+    <loc>https://lyferlu.github.io/categories/</loc>
     <lastmod>2023-09-07T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://lyferlu.github.io/blog/tags/css/</loc>
+    <loc>https://lyferlu.github.io/tags/css/</loc>
     <lastmod>2023-09-07T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://lyferlu.github.io/blog/tags/html/</loc>
+    <loc>https://lyferlu.github.io/tags/html/</loc>
     <lastmod>2023-09-07T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://lyferlu.github.io/blog/tags/markdown/</loc>
+    <loc>https://lyferlu.github.io/tags/markdown/</loc>
     <lastmod>2023-09-07T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://lyferlu.github.io/blog/p/markdown-syntax-guide/</loc>
+    <loc>https://lyferlu.github.io/p/markdown-syntax-guide/</loc>
     <lastmod>2023-09-07T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://lyferlu.github.io/blog/post/</loc>
+    <loc>https://lyferlu.github.io/post/</loc>
     <lastmod>2023-09-07T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://lyferlu.github.io/blog/categories/syntax/</loc>
+    <loc>https://lyferlu.github.io/categories/syntax/</loc>
     <lastmod>2023-09-07T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://lyferlu.github.io/blog/tags/</loc>
+    <loc>https://lyferlu.github.io/tags/</loc>
     <lastmod>2023-09-07T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://lyferlu.github.io/blog/tags/themes/</loc>
+    <loc>https://lyferlu.github.io/tags/themes/</loc>
     <lastmod>2023-09-07T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://lyferlu.github.io/blog/categories/themes/</loc>
+    <loc>https://lyferlu.github.io/categories/themes/</loc>
     <lastmod>2023-09-07T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://lyferlu.github.io/blog/p/image-gallery/</loc>
+    <loc>https://lyferlu.github.io/p/image-gallery/</loc>
     <lastmod>2023-08-26T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://lyferlu.github.io/blog/p/shortcodes/</loc>
+    <loc>https://lyferlu.github.io/p/shortcodes/</loc>
     <lastmod>2023-08-25T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://lyferlu.github.io/blog/p/math-typesetting/</loc>
+    <loc>https://lyferlu.github.io/p/math-typesetting/</loc>
     <lastmod>2023-08-24T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://lyferlu.github.io/blog/archives/</loc>
+    <loc>https://lyferlu.github.io/archives/</loc>
     <lastmod>2022-03-06T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://lyferlu.github.io/blog/categories/example-category/</loc>
+    <loc>https://lyferlu.github.io/categories/example-category/</loc>
     <lastmod>2022-03-06T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://lyferlu.github.io/blog/tags/example-tag/</loc>
+    <loc>https://lyferlu.github.io/tags/example-tag/</loc>
     <lastmod>2022-03-06T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://lyferlu.github.io/blog/page/</loc>
+    <loc>https://lyferlu.github.io/page/</loc>
     <lastmod>2022-03-06T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://lyferlu.github.io/blog/links/</loc>
+    <loc>https://lyferlu.github.io/links/</loc>
   </url><url>
-    <loc>https://lyferlu.github.io/blog/search/</loc>
+    <loc>https://lyferlu.github.io/search/</loc>
   </url>
 </urlset>
